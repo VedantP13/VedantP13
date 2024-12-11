@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### Languages
 🐍 Python | ☕ Java | 🚀 C++
 
-### 🔗 Let's Connect
+#### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vedant-patel-a750b3288/)
